@@ -1,0 +1,11 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+
+# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
+
+[rpc_endpoints]
+ethereum_sepolia = "https://sepolia.infura.io/v3/95fbfb73cc214a4c9d7703d9ebdc0aee"
+base_sepolia = "https://base-sepolia.infura.io/v3/95fbfb73cc214a4c9d7703d9ebdc0aee"
+
